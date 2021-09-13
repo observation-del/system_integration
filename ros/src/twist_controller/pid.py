@@ -1,4 +1,6 @@
 
+import rospy
+
 MIN_NUM = float('-inf')
 MAX_NUM = float('inf')
 
